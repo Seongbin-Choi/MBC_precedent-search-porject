@@ -5,7 +5,7 @@
 ## 개요
 약 17만 건의 판례를 수집하여 전문 검색이 가능한 웹 기반 검색 시스템입니다.
 
-##참고
+참고:
 https://www.cognica.io/ko/blog/posts/2024-06-21-demo-law#%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0
 
 ## 기능
